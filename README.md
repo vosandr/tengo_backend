@@ -1,10 +1,12 @@
+
+
 # Backend starter code
 
 This repository is to be used as a starter for Koa based Node.js applications written in TypeScript and using MongoDB. It includes a range of nice packages and configurations. It also has a stub for user login via Telegram, Facebook and Google. Enjoy!
 
 ## Installation and local launch
 
-1. Clone this repo: `git clone https://github.com/Borodutch/backend-starter`
+1. Clone this repo: 
 2. Launch the [mongo database](https://www.mongodb.com/) locally
 3. Create `.env` with the environment variables listed below
 4. Run `yarn` in the root folder
@@ -23,3 +25,7 @@ And you should be good to go! Feel free to fork and submit pull requests.
 | `PORT`                                   | Port to run server on (defaults to 1337) |
 
 Also, please, consider looking at `.env.sample`.
+
+
+[Base taken from here](https://github.com/Borodutch/frontend-starter)
+[Idea taken from here](https://obsidian.md/), [And modified to make it easier to work with this zettelkasten](https://www.youtube.com/watch?v=PiS3pRRj994&t=669s)
