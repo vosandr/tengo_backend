@@ -28,4 +28,5 @@ Also, please, consider looking at `.env.sample`.
 
 
 [Base taken from here](https://github.com/Borodutch/frontend-starter)
-[Idea taken from here](https://obsidian.md/), [And modified to make it easier to work with this zettelkasten](https://www.youtube.com/watch?v=PiS3pRRj994&t=669s)
+[Idea taken from here](https://obsidian.md/)
+[Modified to make it easier to work with this zettelkasten](https://www.youtube.com/watch?v=PiS3pRRj994&t=669s)
